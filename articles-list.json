@@ -2,8 +2,97 @@
   "en": [
     {
       "title": "2024 Year in Review: Key Crypto Moments and What Lies Ahead in 2025",
-      "coverImageUrl": "5260ebabf7694eb3",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
       "articleUrl": "https://www.ccn.com/education/crypto/crypto-market-key-moments-wins-losses-challenges/"
+    },
+    {
+      "title": "What is cryptocurrency? A beginner's guide",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "What is DeFi? A beginner's guide to decentralized finance",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://cointelegraph.com/learn/articles/defi-a-comprehensive-guide-to-decentralized-finance"
+    },
+    {
+      "title": "Don’t let FUD give you FOMO or you’ll end up REKT — crypto slang, explained",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "How blockchain interoperability works: A beginner’s guide to cross-chain technology",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://cointelegraph.com/learn/articles/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology"
+    },
+    {
+      "title": "How DeFi protocols generate revenue and why it’s important",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://academy.binance.com/en/articles/how-defi-protocols-generate-revenue-and-why-it-s-important"
+    }
+  ],
+  "ru": [
+    {
+      "title": "Обзор 2024 года: Ключевые моменты в криптовалюте и что ждет нас в 2025 году",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
+      "articleUrl": "https://www.ccn.com/education/crypto/crypto-market-key-moments-wins-losses-challenges/"
+    },
+    {
+      "title": "Что такое криптовалюта? Руководство для начинающих",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/ru/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "Что такое DeFi? Руководство для начинающих по децентрализованным финансам",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://cointelegraph.com/learn/articles/defi-a-comprehensive-guide-to-decentralized-finance"
+    },
+    {
+      "title": "Не позволяйте FUD порождать у вас FOMO, иначе останетесь REKT: разбираемся с криптовалютным сленгом",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/ru/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "Как работает совместимость блокчейнов: руководство для начинающих по межсетевым технологиям",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://cointelegraph.com/learn/articles/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology"
+    },
+    {
+      "title": "На чем зарабатывают протоколы DeFi и почему их доход важен",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://academy.binance.com/ru/articles/how-defi-protocols-generate-revenue-and-why-it-s-important"
+    }
+  ],
+  "fr": [
+    {
+      "title": "Bilan de l'année 2024: Les moments clés de la cryptographie et ce qui nous attend en 2025",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
+      "articleUrl": "https://www.ccn.com/education/crypto/crypto-market-key-moments-wins-losses-challenges/"
+    },
+    {
+      "title": "Qu'est-ce qu'une crypto-monnaie? Guide du débutant",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/fr/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "Qu'est-ce que DeFi? Un guide pour débutants sur la finance décentralisée",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://cointelegraph.com/learn/articles/defi-a-comprehensive-guide-to-decentralized-finance"
+    },
+    {
+      "title": "Ne laissez pas le FUD vous donner le FOMO ou vous finirez en REKT - l'argot cryptographique expliqué",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/fr/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "Comment fonctionne l'interopérabilité de la blockchain: Guide du débutant sur la technologie cross-chain",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://cointelegraph.com/learn/articles/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology"
+    },
+    {
+      "title": "Comment les protocoles DeFi génèrent des revenus et pourquoi c’est important?",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://academy.binance.com/fr/articles/how-defi-protocols-generate-revenue-and-why-it-s-important"
     }
   ]
 }

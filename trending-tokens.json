@@ -1,0 +1,26 @@
+[
+  {
+    "network": "bnb",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "network": "bnb",
+    "address": "0x55d398326f99059fF775485246999027B3197955"
+  },
+  {
+    "network": "bnb",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+  },
+  {
+    "network": "bnb",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+  },
+  {
+    "network": "matic",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
+    "network": "matic",
+    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+  }
+]
