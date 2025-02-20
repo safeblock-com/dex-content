@@ -23,7 +23,7 @@
     {
       "title": "How blockchain interoperability works: A beginner’s guide to cross-chain technology",
       "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
-      "articleUrl": "https://cointelegraph.com/learn/articles/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology"
+      "articleUrl": "https://www.kraken.com/learn/web3-wallets"
     },
     {
       "title": "How DeFi protocols generate revenue and why it’s important",
@@ -33,66 +33,66 @@
   ],
   "ru": [
     {
-      "title": "Обзор 2024 года: Ключевые моменты в криптовалюте и что ждет нас в 2025 году",
-      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
-      "articleUrl": "https://www.ccn.com/education/crypto/crypto-market-key-moments-wins-losses-challenges/"
+      "title": "Что такое децентрализованная биржа (DEX) и как это работает",
+      "coverImageUrl": "https://ru.beincrypto.com/wp-content/uploads/2019/11/bic_fear_greed_index.jpg.webp",
+      "articleUrl": "https://ru.beincrypto.com/learn/chto-takoe-deczentralizovannye-birzhi-i-zachem-oni-vam/"
     },
     {
-      "title": "Что такое криптовалюта? Руководство для начинающих",
-      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
-      "articleUrl": "https://www.coinbase.com/ru/learn/crypto-basics/what-is-cryptocurrency"
+      "title": "Фишинг в Web3: как защитить себя и свои активы",
+      "coverImageUrl": "https://forklog.com/wp-content/uploads/social-network-hacking.webp",
+      "articleUrl": "https://forklog.com/exclusive/fishing-v-web3-kak-zashhitit-sebya-i-svoi-aktivy"
     },
     {
-      "title": "Что такое DeFi? Руководство для начинающих по децентрализованным финансам",
-      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
-      "articleUrl": "https://cointelegraph.com/learn/articles/defi-a-comprehensive-guide-to-decentralized-finance"
+      "title": "Криптокошелек: все, что нужно знать",
+      "coverImageUrl": "https://ru.beincrypto.com/wp-content/uploads/2024/07/how-to-set-up-a-crypto-wallet-how-850x478-1.jpg.webp",
+      "articleUrl": "https://ru.beincrypto.com/learn/kriptokoshelek-vse-chto-nuzhno-znat/"
     },
     {
-      "title": "Не позволяйте FUD порождать у вас FOMO, иначе останетесь REKT: разбираемся с криптовалютным сленгом",
-      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
-      "articleUrl": "https://www.coinbase.com/ru/learn/tip-and-tutorials/crypto-slang-guide"
+      "title": "DEX-биржи: что нужно знать",
+      "coverImageUrl": "https://ledger-wp-website-s3-prd.ledger.com/uploads/2022/08/What-is-a-Dex_-Decentralized-Exchanges-Explained.png",
+      "articleUrl": "https://www.ledger.com/ru/academy/dex-%D0%B1%D0%B8%D1%80%D0%B6%D0%B8-%D1%87%D1%82%D0%BE-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C"
     },
     {
-      "title": "Как работает совместимость блокчейнов: руководство для начинающих по межсетевым технологиям",
-      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
-      "articleUrl": "https://cointelegraph.com/learn/articles/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology"
+      "title": "Как начать торговать на децентрализованной бирже. Простая инструкция",
+      "coverImageUrl": "https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/7/57/756469212693577.jpg",
+      "articleUrl": "https://www.rbc.ru/crypto/news/622a037e9a79477482b3fcca"
     },
     {
-      "title": "На чем зарабатывают протоколы DeFi и почему их доход важен",
-      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
-      "articleUrl": "https://academy.binance.com/ru/articles/how-defi-protocols-generate-revenue-and-why-it-s-important"
+      "title": "Новые и перспективные мемкоины: где искать и как анализировать",
+      "coverImageUrl": "https://incrypted.com/wp-content/uploads/2024/11/meme-search2.jpg",
+      "articleUrl": "https://incrypted.com/top-new-memcoins/"
     }
   ],
   "fr": [
     {
-      "title": "Bilan de l'année 2024: Les moments clés de la cryptographie et ce qui nous attend en 2025",
-      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
-      "articleUrl": "https://www.ccn.com/education/crypto/crypto-market-key-moments-wins-losses-challenges/"
+      "title": "Qu'est-ce qu'une cryptomonnaie ou monnaie virtuelle ?",
+      "coverImageUrl": "https://cryptoast.fr/wp-content/uploads/2024/01/cryptomonnaie-cest-quoi.webp",
+      "articleUrl": "https://cryptoast.fr/crypto-monnaies/"
     },
     {
-      "title": "Qu'est-ce qu'une crypto-monnaie? Guide du débutant",
-      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
-      "articleUrl": "https://www.coinbase.com/fr/learn/crypto-basics/what-is-cryptocurrency"
+      "title": "Qu'est-ce que la DeFi ?",
+      "coverImageUrl": "https://images.ctfassets.net/q5ulk4bp65r7/2lrWtXLcleZPbsnzZnEeLB/bbd5a35075619f07e083fce5fdbf15f9/Learn_Illustration_What_is_DeFi.jpg?w=768&fm=png",
+      "articleUrl": "https://www.coinbase.com/fr-ca/learn/crypto-basics/what-is-defi"
     },
     {
-      "title": "Qu'est-ce que DeFi? Un guide pour débutants sur la finance décentralisée",
-      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
-      "articleUrl": "https://cointelegraph.com/learn/articles/defi-a-comprehensive-guide-to-decentralized-finance"
+      "title": "Tout comprendre sur la crypto monnaie en 2025",
+      "coverImageUrl": "https://cryptonaute.fr/wp-content/uploads/2023/11/naissanceBitcoin.png.webp",
+      "articleUrl": "https://cryptonaute.fr/crypto-monnaie/"
     },
     {
-      "title": "Ne laissez pas le FUD vous donner le FOMO ou vous finirez en REKT - l'argot cryptographique expliqué",
-      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
-      "articleUrl": "https://www.coinbase.com/fr/learn/tip-and-tutorials/crypto-slang-guide"
+      "title": "Qu’est-ce que la finance décentralisée (DeFi) ?",
+      "coverImageUrl": "https://coinacademy.fr/wp-content/uploads/2022/03/defi-finance-decentralisee-crypto-1600x1000.png.webp",
+      "articleUrl": "https://coinacademy.fr/academie/defi-finance-decentralisee/"
     },
     {
-      "title": "Comment fonctionne l'interopérabilité de la blockchain: Guide du débutant sur la technologie cross-chain",
-      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
-      "articleUrl": "https://cointelegraph.com/learn/articles/what-is-blockchain-interoperability-a-beginners-guide-to-cross-chain-technology"
+      "title": "Wallet Crypto : les meilleurs portefeuilles crypto en 2025",
+      "coverImageUrl": "https://cryptonaute.fr/wp-content/uploads/2022/08/crypto-wallet-illustration.webp",
+      "articleUrl": "https://cryptonaute.fr/wallet/"
     },
     {
-      "title": "Comment les protocoles DeFi génèrent des revenus et pourquoi c’est important?",
-      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
-      "articleUrl": "https://academy.binance.com/fr/articles/how-defi-protocols-generate-revenue-and-why-it-s-important"
+      "title": "Qu'est-ce qu'un wallet crypto ?",
+      "coverImageUrl": "https://www.cointribune.com/app/uploads/2023/11/bitcoin-lightning-3.png.webp",
+      "articleUrl": "https://www.cointribune.com/quest-ce-quun-wallet-crypto/"
     }
   ]
 }
