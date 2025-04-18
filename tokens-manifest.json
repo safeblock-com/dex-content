@@ -348,7 +348,7 @@
     {
       "name": "xDAI",
       "symbol": "xDAI",
-      "icon": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d"
+      "icon": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
     },
     {
       "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
@@ -393,7 +393,7 @@
     {
       "name": "Ether",
       "symbol": "ETH",
-      "icon": "0x5300000000000000000000000000000000000004"
+      "icon": "0x5300000000000000000000000000000000000004/logo.png"
     },
     {
       "address": "0xd29687c813D741E2F938F4aC377128810E217b1b",
