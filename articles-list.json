@@ -16,17 +16,17 @@
       "articleUrl": "https://cointelegraph.com/learn/articles/defi-a-comprehensive-guide-to-decentralized-finance"
     },
     {
-      "title": "Don’t let FUD give you FOMO or you’ll end up REKT — crypto slang, explained",
+      "title": "Don't let FUD give you FOMO or you'll end up REKT — crypto slang, explained",
       "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
       "articleUrl": "https://www.coinbase.com/learn/tip-and-tutorials/crypto-slang-guide"
     },
     {
-      "title": "How blockchain interoperability works: A beginner’s guide to cross-chain technology",
+      "title": "How blockchain interoperability works: A beginner's guide to cross-chain technology",
       "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
       "articleUrl": "https://www.kraken.com/learn/web3-wallets"
     },
     {
-      "title": "How DeFi protocols generate revenue and why it’s important",
+      "title": "How DeFi protocols generate revenue and why it's important",
       "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
       "articleUrl": "https://academy.binance.com/en/articles/how-defi-protocols-generate-revenue-and-why-it-s-important"
     }
@@ -80,7 +80,7 @@
       "articleUrl": "https://cryptonaute.fr/crypto-monnaie/"
     },
     {
-      "title": "Qu’est-ce que la finance décentralisée (DeFi) ?",
+      "title": "Qu'est-ce que la finance décentralisée (DeFi) ?",
       "coverImageUrl": "https://coinacademy.fr/wp-content/uploads/2022/03/defi-finance-decentralisee-crypto-1600x1000.png.webp",
       "articleUrl": "https://coinacademy.fr/academie/defi-finance-decentralisee/"
     },
@@ -93,6 +93,134 @@
       "title": "Qu'est-ce qu'un wallet crypto ?",
       "coverImageUrl": "https://www.cointribune.com/app/uploads/2023/11/bitcoin-lightning-3.png.webp",
       "articleUrl": "https://www.cointribune.com/quest-ce-quun-wallet-crypto/"
+    }
+  ],
+  "es": [
+    {
+      "title": "¿Qué es una criptomoneda? Guía para principiantes",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/es/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "¿Qué es DeFi? Guía para principiantes sobre finanzas descentralizadas",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://www.coinbase.com/es/learn/crypto-basics/what-is-defi"
+    },
+    {
+      "title": "Cómo funciona la interoperabilidad blockchain: Guía para principiantes sobre tecnología cross-chain",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://www.coinbase.com/es/learn/crypto-basics/what-is-blockchain"
+    },
+    {
+      "title": "No dejes que el FUD te cause FOMO o terminarás REKT — guía de jerga crypto",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/es/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "Cómo los protocolos DeFi generan ingresos y por qué es importante",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://www.coinbase.com/es/learn/crypto-basics/how-defi-protocols-generate-revenue"
+    },
+    {
+      "title": "¿Qué es Bitcoin? Guía completa sobre la primera criptomoneda",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
+      "articleUrl": "https://www.coinbase.com/es/learn/crypto-basics/what-is-bitcoin"
+    }
+  ],
+  "de": [
+    {
+      "title": "Was ist Kryptowährung? Ein Anfängerleitfaden",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/de/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "Was ist DeFi? Ein Anfängerleitfaden zur dezentralisierten Finanzierung",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://www.coinbase.com/de/learn/crypto-basics/what-is-defi"
+    },
+    {
+      "title": "Wie Blockchain-Interoperabilität funktioniert: Ein Anfängerleitfaden zur Cross-Chain-Technologie",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://www.coinbase.com/de/learn/crypto-basics/what-is-blockchain"
+    },
+    {
+      "title": "Lass dich nicht von FUD zu FOMO verleiten, sonst wirst du REKT — Krypto-Slang erklärt",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/de/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "Wie DeFi-Protokolle Einnahmen generieren und warum das wichtig ist",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://www.coinbase.com/de/learn/crypto-basics/how-defi-protocols-generate-revenue"
+    },
+    {
+      "title": "Was ist Bitcoin? Ein umfassender Leitfaden zur ersten Kryptowährung",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
+      "articleUrl": "https://www.coinbase.com/de/learn/crypto-basics/what-is-bitcoin"
+    }
+  ],
+  "pt-BR": [
+    {
+      "title": "O que é criptomoeda? Um guia para iniciantes",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/pt-br/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "O que é DeFi? Um guia para iniciantes sobre finanças descentralizadas",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://www.coinbase.com/pt-br/learn/crypto-basics/what-is-defi"
+    },
+    {
+      "title": "Como funciona a interoperabilidade blockchain: Um guia para iniciantes sobre tecnologia cross-chain",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://www.coinbase.com/pt-br/learn/crypto-basics/what-is-blockchain"
+    },
+    {
+      "title": "Não deixe o FUD te dar FOMO ou você vai ficar REKT — guia de gírias crypto",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/pt-br/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "Como os protocolos DeFi geram receita e por que isso é importante",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://www.coinbase.com/pt-br/learn/crypto-basics/how-defi-protocols-generate-revenue"
+    },
+    {
+      "title": "O que é Bitcoin? Um guia completo sobre a primeira criptomoeda",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
+      "articleUrl": "https://www.coinbase.com/pt-br/learn/crypto-basics/what-is-bitcoin"
+    }
+  ],
+  "sl-SI": [
+    {
+      "title": "Kaj je kriptovaluta? Vodnik za začetnike",
+      "coverImageUrl": "https://content.safeblock.com/images/a260d22984a9b4c6.png",
+      "articleUrl": "https://www.coinbase.com/learn/crypto-basics/what-is-cryptocurrency"
+    },
+    {
+      "title": "Kaj je DeFi? Vodnik za začetnike o decentraliziranih financah",
+      "coverImageUrl": "https://content.safeblock.com/images/f429698b62006e42.png",
+      "articleUrl": "https://www.coinbase.com/learn/crypto-basics/what-is-defi"
+    },
+    {
+      "title": "Kako deluje interoperabilnost blockchaina: Vodnik za začetnike o tehnologiji cross-chain",
+      "coverImageUrl": "https://content.safeblock.com/images/a1726de102bd9fd2.png",
+      "articleUrl": "https://www.coinbase.com/learn/crypto-basics/what-is-blockchain"
+    },
+    {
+      "title": "Ne dovolite, da vas FUD spravi v FOMO, sicer boste REKT — vodnik po kripto žargonu",
+      "coverImageUrl": "https://content.safeblock.com/images/738ac7031542849c.png",
+      "articleUrl": "https://www.coinbase.com/learn/tip-and-tutorials/crypto-slang-guide"
+    },
+    {
+      "title": "Kako DeFi protokoli ustvarjajo prihodke in zakaj je to pomembno",
+      "coverImageUrl": "https://content.safeblock.com/images/65ca426e1d164765.png",
+      "articleUrl": "https://www.coinbase.com/learn/crypto-basics/how-defi-protocols-generate-revenue"
+    },
+    {
+      "title": "Kaj je Bitcoin? Celovit vodnik o prvi kriptovaluti",
+      "coverImageUrl": "https://content.safeblock.com/images/5260ebabf7694eb3.png",
+      "articleUrl": "https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin"
     }
   ]
 }
