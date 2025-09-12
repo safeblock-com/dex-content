@@ -1,0 +1,344 @@
+[
+  {
+    "originChainId": 534352,
+    "destinationChainId": 1,
+    "symbol": "WETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 1,
+    "symbol": "ETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 1,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 1,
+    "symbol": "USDT",
+    "originToken": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "destinationToken": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 1,
+    "symbol": "WBTC",
+    "originToken": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+    "destinationToken": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "originDecimals": 8,
+    "destinationDecimals": 8
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 1,
+    "symbol": "POOL",
+    "originToken": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7",
+    "destinationToken": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "WETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x4200000000000000000000000000000000000006",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "ETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x4200000000000000000000000000000000000006",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "USDT",
+    "originToken": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "destinationToken": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "WBTC",
+    "originToken": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+    "destinationToken": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "originDecimals": 8,
+    "destinationDecimals": 8
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 10,
+    "symbol": "POOL",
+    "originToken": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7",
+    "destinationToken": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "WETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "ETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "USDT",
+    "originToken": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "destinationToken": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "WBTC",
+    "originToken": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+    "destinationToken": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "originDecimals": 8,
+    "destinationDecimals": 8
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 137,
+    "symbol": "POOL",
+    "originToken": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7",
+    "destinationToken": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "WETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "ETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "USDT",
+    "originToken": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "destinationToken": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "WBTC",
+    "originToken": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+    "destinationToken": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "originDecimals": 8,
+    "destinationDecimals": 8
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "POOL",
+    "originToken": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7",
+    "destinationToken": "0xCF934E2402A5e072928a39a956964eb8F2B5B79C",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 8453,
+    "symbol": "WETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x4200000000000000000000000000000000000006",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 8453,
+    "symbol": "ETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x4200000000000000000000000000000000000006",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 8453,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 8453,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 8453,
+    "symbol": "USDT",
+    "originToken": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "destinationToken": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 8453,
+    "symbol": "POOL",
+    "originToken": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7",
+    "destinationToken": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 56,
+    "symbol": "WETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 56,
+    "symbol": "ETH",
+    "originToken": "0x5300000000000000000000000000000000000004",
+    "destinationToken": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "originDecimals": 18,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 56,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "originDecimals": 6,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 56,
+    "symbol": "USDT",
+    "originToken": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+    "destinationToken": "0x55d398326f99059fF775485246999027B3197955",
+    "originDecimals": 6,
+    "destinationDecimals": 18
+  },
+  {
+    "originChainId": 534352,
+    "destinationChainId": 42161,
+    "symbol": "USDC",
+    "originToken": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "destinationToken": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "originDecimals": 6,
+    "destinationDecimals": 6
+  }
+]
